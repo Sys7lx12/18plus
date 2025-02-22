@@ -1,8 +1,8 @@
 version = 1
 
 cloudstream {
-    authors     = listOf("luck731")
-    language    = "en"
+    authors     = listOf("sys7")
+    language    = "vi"
     description = "The Best Free JAV online, JAV DVD online, Stream JAV Online High Quality always updated daily."
 
     /**
